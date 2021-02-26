@@ -44,7 +44,7 @@ class Interface(QMainWindow):
         self.exit.clicked.connect(self.exit_program)
 
     def description(self):
-        dsc = """Авторы: Казаков Данил, Кузин Даниил.
+        dsc = """Авторы: Учащиеся - Казаков Данил, Кузин Даниил.
         
 Описание идеи: Многим пользователям иногда 
 хочется отдохнуть от работы и запустить 
